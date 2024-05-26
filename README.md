@@ -6,6 +6,9 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white)
+![RedwoodJS](https://img.shields.io/badge/-RedwoodJS-BF4722?style=plastic&logo=redwoodjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=plastic&logo=prisma&logoColor=white)
+
 
 
 
