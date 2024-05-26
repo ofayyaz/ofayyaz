@@ -1,6 +1,8 @@
 ## Hi 👋
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
+
 
 <!--
 **ofayyaz/ofayyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
