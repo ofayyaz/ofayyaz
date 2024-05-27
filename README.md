@@ -2,6 +2,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=plastic&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=django&logoColor=white)
