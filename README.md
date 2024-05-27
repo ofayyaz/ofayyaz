@@ -10,6 +10,8 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=plastic&logo=prisma&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=plastic&logo=next.js&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white)
+
 
 
 
